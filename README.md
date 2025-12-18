@@ -35,3 +35,6 @@ A responsive ecommerce homepage for Kilangi, showcasing products, reviews, and a
 ## License
 
 This project is licensed under the MIT License.
+
+## deploy
+https://anusha2841.github.io/ecommerce-homepage/
