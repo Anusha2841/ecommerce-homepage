@@ -630,14 +630,14 @@ a{ color:inherit; }
 }
 
 /* Gift Notes responsive */
-@media (max-width: 900px){
+@media (max-width: 1024px){
   .gift-notes-layout{
     grid-template-columns:1fr;
     row-gap:32px;
   }
 }
 
-@media (max-width: 600px){
+@media (max-width: 640px){
   .section#gift-notes h2{ font-size:24px; }
   .gift-notes-grid{
     grid-template-columns:1fr;
@@ -700,12 +700,6 @@ a{ color:inherit; }
 }
 
 /* Winter + Lab responsive */
-@media (max-width: 900px){
-  .section#winter-lab .two-column.winter-lab-grid{
-    grid-template-columns: 1fr;
-  }
-}
-
 @media (max-width: 768px){
   .section#winter-lab .two-column.winter-lab-grid{
     grid-template-columns: 1fr;
@@ -855,7 +849,7 @@ a{ color:inherit; }
 }
 
 /* Responsive */
-@media (max-width:1024px){
+@media (max-width: 1024px){
   .section#ethos.two-column{
     grid-template-columns:1fr;
   }
@@ -864,7 +858,7 @@ a{ color:inherit; }
   }
 }
 
-@media (max-width:768px){
+@media (max-width: 768px){
   .ethos-content h2{
     font-size:24px;
   }
@@ -1175,7 +1169,7 @@ a{ color:inherit; }
 .section#occasions .occasions-card .secondary-btn{ display:inline-flex; align-items:center; gap:6px; font-size:11px; padding:8px 14px; border-radius:0; background:#0e5f45; color:#fff; border:none; }
 .section#occasions .occasions-cta{ display:flex; justify-content:center; margin-top:4px; }
 .section#occasions .occasions-cta .primary-btn{ font-size:11px; padding:10px 26px; background:#0e5f45; color:#fff; border:none; border-radius:0; }
-@media (max-width: 900px){ .section#occasions .occasions-row{ grid-template-columns:repeat(2, minmax(0, 1fr)); gap:10px; } }
+@media (max-width: 1024px){ .section#occasions .occasions-row{ grid-template-columns:repeat(2, minmax(0, 1fr)); gap:10px; } }
 @media (max-width: 640px){ .section#occasions{ padding:32px 0 36px; } .section#occasions h2{ font-size:24px; } .section#occasions .occasions-row{ grid-template-columns:1fr; } .section#occasions .occasions-card figcaption{ padding:12px 14px 16px; } }
 .section {
   padding: 48px 0;              /* top–bottom */

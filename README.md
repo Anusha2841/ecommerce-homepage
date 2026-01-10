@@ -1,5 +1,7 @@
 # Kilangi Ecommerce Homepage
 
+[![View Live Demo](https://img.shields.io/badge/View_Live_Demo-440gallery.github.io/ecommerce--homepage-blue)](https://440gallery.github.io/ecommerce-homepage)
+
 A responsive ecommerce homepage for Kilangi, showcasing products, reviews, and a hero section with modern frontend styling.
 
 ## Features
@@ -126,4 +128,16 @@ A responsive ecommerce homepage for Kilangi, showcasing products, reviews, and a
 This project is licensed under the MIT License.
 
 ## Deployment
+
+This static website can be deployed to various hosting platforms. Here are the most common options:
+
+### GitHub Pages
+
+1. **Push to GitHub**: Create a new repository and push your code
+2. **Enable GitHub Pages**:
+   - Go to repository Settings > Pages
+   - Select "Deploy from a branch"
+   - Choose "main" branch and "/ (root)" folder
+   - Click Save
+3. **Access your site**: Your site will be available at `https://440gallery.github.io/ecommerce-homepage`
 
